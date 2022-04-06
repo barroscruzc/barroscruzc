@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @barroscruzc
-- 👀 I’m interested in ... front-end development
-- 🌱 I’m currently learning ... programming logic and algorithms
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I’m interested in ... back-end development
+- 🌱 I’m currently learning ... Python and Java
+- 💞️ I’m looking to collaborate on ... Python projects
 - 📫 How to reach me ... e-mail (barroscruzc@gmail.com) or LinkedIn (https://www.linkedin.com/in/cristhiane-da-cruz-32a9a4224/)
