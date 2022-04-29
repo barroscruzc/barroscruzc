@@ -2,4 +2,4 @@
 - 👀 I’m interested in ... back-end development
 - 🌱 I’m currently learning ... Python and Java
 - 💞️ I’m looking to collaborate on ... Python projects
-- 📫 How to reach me ... e-mail (barroscruzc@gmail.com) or LinkedIn (https://www.linkedin.com/in/cristhiane-da-cruz-32a9a4224/)
+- 📫 How to reach me ... e-mail (barroscruzc@gmail.com) or LinkedIn (https://www.linkedin.com/in/barroscruzc/)
