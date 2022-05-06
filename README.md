@@ -1,4 +1,7 @@
-<h1 align="left"> Bem vindo(a)! </h1>
+<p align="center"> 
+ <img width="1000em" src="https://raw.githubusercontent.com/barroscruzc/barroscruzc/main/title/title.gif" />
+ </p>
+<h3 align="left"> Sobre mim: </h1>
 <div açogm="center>
 <img src="https://2ijk7.csb.app/" />
  </div>
