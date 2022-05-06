@@ -23,7 +23,7 @@
    
  </div>
  
- ### Contato:
+ ### Fale comigo em:
  
 <div> 
   <a href="https://www.linkedin.com/in/barroscruzc" target="_blank"><img width="112em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
