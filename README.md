@@ -1,11 +1,9 @@
-### Seja bem vindo!
-# Olá, Eu sou a Cristhiane 👋🏾
+<h1 align="center"> Olá, Eu sou a Cristhiane 👋🏾 </h1>
 
 - 👩🏾‍💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 👀 Tenho interesse em Desenvolvimento Backend
-- 🌱 Estudando as linguagens Python e Java
-- 👩🏾 Pronouns: ela/dela
-#
+- 🌱 Estou estudando as linguagens Python e Java
+- 💻 Aprendendo Programação Orientada a Objetos
 
 <div align="center">
  <a href="https://github.com/barroscruzc">
