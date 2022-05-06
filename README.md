@@ -1,4 +1,7 @@
-<h1 align="center"> Olá, Eu sou a Cristhiane 👋🏾 </h1>
+<h1 align="left"> Bem vindo(a)! </h1>
+<div açogm="center>
+<img src="https://2ijk7.csb.app/" />
+ </div>
 
 - 👩🏾‍💻 Estudante de Análise e Desenvolvimento de Sistemas
 - 👀 Tenho interesse em Desenvolvimento Backend
