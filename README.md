@@ -7,8 +7,8 @@
  </div>
 
 - 👩🏾‍💻 Estudante de Análise e Desenvolvimento de Sistemas
-- 👀 Tenho interesse em Desenvolvimento Backend
-- 🌱 Estou estudando as linguagens Python e Java
+- 👀 Tenho interesse em Desenvolvimento Backend e Fullstack
+- 🌱 Estou estudando as linguagens Java e Python
 - 💻 Aprendendo Programação Orientada a Objetos e SQL
 
 <div align="center">
