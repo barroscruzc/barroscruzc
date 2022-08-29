@@ -15,7 +15,7 @@
 <li>API Rest ✔</li>
 <li>Metodologias Ágeis e Boas Práticas ✔</li>
 <li>Git e Github ✔</li>
-<li>HTML5, ✔CSS3 e Javascript ✔</li>
+<li>HTML5, CSS3 e Javascript ✔</li>
 <li>Bootstrap ✔</li>
 <li>DevOps ✔</li>
 <li>Cloud Computing ✔</li>
@@ -49,7 +49,7 @@
     <img height="30px" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" >
  </div>
  
- ### Contato:
+ <h2>Contato</h2>
  
 <div> 
   <a href="https://www.linkedin.com/in/barroscruzc" target="_blank"><img width="112em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
