@@ -1,15 +1,19 @@
-<h1> Olá, sou a Cristhiane </h1>
-<div align="center">
- <img width="30%"src="https://raw.githubusercontent.com/barroscruzc/barroscruzc/main/title/helloworld.gif" /></div>
- <h2>Sobre mim:</h2>
-<ul>
-<li> 👩🏾‍💻 Estudante de Análise e Desenvolvimento de Sistemas</li>
-<li> 👀 Tenho interesse em Desenvolvimento Backend e FullStack</li>
-<li>🌱 Estou aprimorando meus conhecimentos sobre: </li>
+<h1 align="center"> Olá, sou a Cristhiane 👋</h1>
+
+
+<h2>Sobre mim:</h2>
+<img width="45%" align="right" src="https://raw.githubusercontent.com/barroscruzc/barroscruzc/main/title/helloworld.gif" />
+
+👩🏾‍💻 Estudante de Análise e Desenvolvimento de Sistemas<br>
+👀 Interesse em desenvolvimento de software<br>
+🔭 Buscando oportunidades em desenvolvimento Backend ou Fullstack<br>
+👯 Disponível para colaborar em projetos Java Web <br>
+🌱 Estou aprimorando meus conhecimentos sobre: 
 <ul>
 <li> Programação Orientada a Objetos ✔</li>
 <li>Linguagens de programação: Java e Python ✔
-<li>Framework Spring (Spring Boot, Spring Security, Spring Web, Spring Data JPA) ✔</li>
+<li>Framework Spring ✔ <br>
+   (Spring Boot, Spring Security, Spring Web, Spring Data JPA)</li>
 <li>Banco de dados relacional: MySQL ✔</li>
 <li>Banco de dados não-relacional: MongoDB ✔</li>
 <li>API Rest ✔</li>
@@ -24,12 +28,20 @@
 </ul>
 </div>
 </div>
+
+<h2>GitHub Analytics</h2>
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=barroscruzc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barroscruzc&layout=compact&langs_count=7&theme=radical"/>
-</div>
+<img heigth="180px" src="https://github-readme-stats.vercel.app/api?username=barroscruzc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img heigth="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barroscruzc&layout=compact&langs_count=7&theme=radical"/>
+<img heigth="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=barroscruzc&theme=radical" alt="GitHub Stats" />
+ </div>
+
+  <h2>Badges:</h2>
+  <h4>Codewars</h4>
+  <a target="_blank" href="https://www.codewars.com/users/barroscruzc"><img src="https://www.codewars.com/users/barroscruzc/badges/large" alt="codewars badge large" /></a>
+
  <br><br>
- <h2>Tecnologias</h2><br>
+ <h2>Skills & Stacks</h2><br>
  <div align="center">
     . 
     <img height="30px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" >
