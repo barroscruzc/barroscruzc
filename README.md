@@ -38,7 +38,7 @@
 
   <h2>Badges:</h2>
   <h4>Codewars</h4>
-  <a target="_blank" href="https://www.codewars.com/users/barroscruzc"><img src="https://www.codewars.com/users/barroscruzc/badges/large" alt="codewars badge large" /></a>
+  <a target="blank" href="https://www.codewars.com/users/barroscruzc"><img src="https://www.codewars.com/users/barroscruzc/badges/large" alt="codewars badge large" /></a>
 
  <br><br>
  <h2>Skills & Stacks</h2><br>
