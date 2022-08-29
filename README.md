@@ -32,8 +32,8 @@
 <h2>GitHub Analytics</h2>
 <div align="center">
 <img heigth="180px" src="https://github-readme-stats.vercel.app/api?username=barroscruzc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img heigth="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barroscruzc&layout=compact&langs_count=7&theme=radical"/>
 <img heigth="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=barroscruzc&theme=radical" alt="GitHub Stats" />
+<img heigth="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barroscruzc&layout=compact&langs_count=7&theme=radical"/>
  </div>
 
   <h2>Badges:</h2>
