@@ -2,13 +2,17 @@
 
 
 <h2>Sobre mim:</h2>
-<img width="45%" align="right" src="https://raw.githubusercontent.com/barroscruzc/barroscruzc/main/title/helloworld.gif" />
 
-👩🏾‍💻 Estudante de Análise e Desenvolvimento de Sistemas<br>
-👀 Interesse em desenvolvimento de software<br>
-🔭 Buscando oportunidades em desenvolvimento Backend ou Fullstack<br>
-👯 Disponível para colaborar em projetos Java Web <br>
-🌱 Estou aprimorando meus conhecimentos sobre: 
+        👩🏾‍💻 Estudante de Análise e Desenvolvimento de Sistemas
+        
+        👀 Interesse em desenvolvimento de software
+        
+        🔭 Buscando oportunidades em desenvolvimento Backend ou Fullstack
+        
+        👯 Disponível para colaborar em projetos Java Web
+        
+        🌱 Estou aprimorando meus conhecimentos sobre: 
+<img width="45%" align="right" src="https://raw.githubusercontent.com/barroscruzc/barroscruzc/main/title/helloworld.gif" />
 <ul>
 <li> Programação Orientada a Objetos ✔</li>
 <li>Linguagens de programação: Java e Python ✔
@@ -26,8 +30,7 @@
 <li>Conceitos básicos de AWS ✔</li>
 </ul>
 </ul>
-</div>
-</div>
+<br><br>
 
 <h2>GitHub Analytics</h2>
 <div align="center">
