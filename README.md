@@ -3,15 +3,15 @@
 
 <h2>Sobre mim:</h2>
 
-        👩🏾‍💻 Estudante de Análise e Desenvolvimento de Sistemas
-        
-        👀 Interesse em desenvolvimento de software
-        
-        🔭 Buscando oportunidades em desenvolvimento Backend ou Fullstack
-        
-        👯 Disponível para colaborar em projetos Java Web
-        
-        🌱 Estou aprimorando meus conhecimentos sobre: 
+👩🏾‍💻 Estudante de Análise e Desenvolvimento de Sistemas
+
+👀 Interesse em desenvolvimento de software
+
+🔭 Buscando oportunidades em desenvolvimento Backend ou Fullstack
+
+👯 Disponível para colaborar em projetos Java Web
+
+🌱 Estou aprimorando meus conhecimentos sobre: 
 <img width="45%" align="right" src="https://raw.githubusercontent.com/barroscruzc/barroscruzc/main/title/helloworld.gif" />
 <ul>
 <li> Programação Orientada a Objetos ✔</li>
