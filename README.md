@@ -7,7 +7,7 @@
 
 👀 Interesse em desenvolvimento de software
 
-🔭 Buscando oportunidades em desenvolvimento Backend ou Fullstack
+🔭 Buscando oportunidades em desenvolvimento Back-End
 
 👯 Disponível para colaborar em projetos Java Web
 
