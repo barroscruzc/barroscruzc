@@ -2,7 +2,6 @@
 
 # Olá, sou a Cristhiane 👋
 
-
 ## Sobre mim:
 
 👩🏾‍💻 Estudante de Análise e Desenvolvimento de Sistemas
@@ -14,7 +13,6 @@
 👯 Disponível para colaborar em projetos `Java Web`
 
 🌱 Estou aprimorando meus conhecimentos sobre: 
-
 
 ✔ Programação Orientada a Objetos
 ✔ Java e Python
@@ -35,7 +33,7 @@
  
 
 ### GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=barroscruzc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=barroscruzc&theme=radical" alt="GitHub Stats" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=barroscruzc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>   <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=barroscruzc&theme=radical" alt="GitHub Stats" />
 
 ### Skills & Stacks
 <img height="30px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /><img height="30px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /><img height="30px" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" /><img height="30px" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" /><img height="30px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
