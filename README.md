@@ -14,18 +14,15 @@
 
 🌱 Estou aprimorando meus conhecimentos sobre: 
 
-✔ Programação Orientada a Objetos
-✔ Java e Python
+✔ Java
 ✔ Framework Spring
-✔ MySQL
-✔ API Rest
+✔ SQL (MySQL)
+✔ NoSQL (MongoDB)
+✔ APIs Rest
 ✔ Metodologias Ágeis
 ✔ Git e Github
 ✔ HTML5, CSS3
 ✔ Bootstrap
-✔ DevOps
-✔ Cloud Computing
-✔ Conceitos básicos de AWS
 
 <a href="https://www.linkedin.com/in/barroscruzc" target="_blank"><img width="112em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:barroscruzc@gmail.com" target="_blank"><img width="90em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
