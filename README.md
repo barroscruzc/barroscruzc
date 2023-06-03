@@ -2,7 +2,7 @@
 
 ## Sobre mim:
 
-👩🏾‍💻 Estudante de Análise e Desenvolvimento de Sistemas
+👩🏾‍💻 Estudante de Análise e Desenvolvimento de Sistemas na UNINTER
 
 🔭 Interesse em Desenvolvimento FullStack
 
