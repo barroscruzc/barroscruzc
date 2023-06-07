@@ -16,10 +16,19 @@
 ✔ HTML, CSS, JavaScript
 ✔ Angular
 
-### GitHub Analytics
-<img width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=barroscruzc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=barroscruzc&theme=radical" alt="GitHub Stats" />
- </div>
+<details>
+ <summary><h3>GitHub Stats</h3></summary>
+ 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=barroscruzc&show_icons=true&theme=omni" width="459"/>
+ 
+<img align="left" src="https://github-readme-stats-barroscruzc.vercel.app/api/top-langs/?username=barroscruzc&layout=compact&theme=omni&hide=jupyter%20notebook&card_width=459" />
+ 
+<img align="center" src="https://streak-stats.demolab.com/?user=barroscruzc&theme=omni&card_width=459"/>
+
+
+ 
+</details>
+
 
 ![Snake animation](https://github.com/barroscruzc/barroscruzc/blob/output/github-contribution-grid-snake.svg)
  
