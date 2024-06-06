@@ -2,7 +2,7 @@
 A passionate backend developer from Rio de Janeiro, Brazil
 ## About me:
 - 👩🏾‍💻 Systems Analysis and Development student at UNINTER
-- 👯 I’m looking to collaborate on <a href="https://github.com/barroscruzc/combustiveisBR">combustiveisBR</a> project
+- 👯 I’m looking to collaborate on Python and Java projects
 - 💬 Ask me about `Java`, `Python` and `Rest API`
 - 🌱 I’m currently learning:
  
