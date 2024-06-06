@@ -18,9 +18,5 @@ A passionate backend developer from Rio de Janeiro, Brazil
  
 <img align="left" src="https://streak-stats.demolab.com/?user=barroscruzc&theme=ambient-gradient&hide_border=true&card_width=500"/>
 
- 
-</details>
 
-
-![Snake animation](https://github.com/barroscruzc/barroscruzc/blob/output/github-contribution-grid-snake.svg)
  
